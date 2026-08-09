@@ -1,9 +1,9 @@
 {
   "name": "Little Dominoes",
   "short_name": "Dominoes",
-  "description": "A simple, family-friendly dominoes game for one or two players.",
+  "description": "A simple, family-friendly dominoes game for local and online play.",
   "id": "./",
-  "start_url": "./",
+  "start_url": "./launcher.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
