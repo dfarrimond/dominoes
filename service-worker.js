@@ -1,4 +1,4 @@
-const CACHE='little-dominoes-v7';
+const CACHE='little-dominoes-v8';
 const ASSETS=[
   './',
   './launcher.html',
