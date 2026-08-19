@@ -1,7 +1,8 @@
-const CACHE='little-dominoes-v9';
+const CACHE='little-games-v10';
 const ASSETS=[
   './',
   './launcher.html',
+  './games.js',
   './index.html',
   './online.html',
   './manifest.webmanifest',
